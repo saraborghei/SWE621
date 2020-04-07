@@ -1,8 +1,6 @@
 # SWE621 - Activity 9
 
-@Authors Sara Borghei
-         Farbod Sedghi
-         Mohana Krishna Narsupalli
+@Authors: Sara Borghei - Farbod Sedghi - Mohana Krishna Narsupalli
 
 Implement V5 ATM implementation 
   ▸FSM = Finite State Machine 
